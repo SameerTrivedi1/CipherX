@@ -4,25 +4,25 @@ CipherX is a C/C++ based tool designed for encoding, encrypting, and obfuscating
 
 ⚠️ Disclaimer: This project is intended for educational and research purposes only. Do not use it for unauthorized access or malicious activity. The author assumes no liability for misuse.
 
-#Features
+<h3>#Features</h3>
 
 - Multiple Encoding/Obfuscation Techniques
 
--XOR Obfuscation
+- XOR Obfuscation
 
--RC4 Encryption
+- RC4 Encryption
 
--Base64 Encoding
+- Base64 Encoding
 
--IPv4 Representation
+- IPv4 Representation
 
--IPv6 Representation
+- IPv6 Representation
 
--MAC Address Encoding
+- MAC Address Encoding
 
--UUID Representation
+- UUID Representation
 
--Interactive CLI Menu
+- Interactive CLI Menu
 
 Simple text-based menu for selecting techniques
 
