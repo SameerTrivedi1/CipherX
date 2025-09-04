@@ -6,7 +6,7 @@ CipherX is a C/C++ based tool designed for encoding, encrypting, and obfuscating
 
 <h3>#Features</h3>
 
-- Multiple Encoding/Obfuscation Techniques
+- <h2>Multiple Encoding/Obfuscation Techniques</h2>
 
 -   XOR Obfuscation
 
