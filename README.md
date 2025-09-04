@@ -6,7 +6,7 @@ CipherX is a C/C++ based tool designed for encoding, encrypting, and obfuscating
 
 <h3>#Features</h3>
 
-- <h2>Multiple Encoding/Obfuscation Techniques</h2>
+- <h4>Multiple Encoding/Obfuscation Techniques</h4>
 
 -   XOR Obfuscation
 
@@ -22,14 +22,14 @@ CipherX is a C/C++ based tool designed for encoding, encrypting, and obfuscating
 
 -   UUID Representation
 
--   Interactive CLI Menu
+-  <h4> Interactive CLI Menu </h4>
 
-Simple text-based menu for selecting techniques
+- Simple text-based menu for selecting techniques.
 
-Input handling with validation and error checks
+- Input handling with validation and error checks.
 
-Modular Implementation
+- <h4>Modular Implementation</h4>
 
-Each algorithm implemented as a dedicated function
+- Each algorithm implemented as a dedicated function.
 
-Easy to extend with new encoding/encryption methods
+- Easy to extend with new encoding/encryption methods.
