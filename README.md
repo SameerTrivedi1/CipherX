@@ -1,4 +1,4 @@
-#🔐 CipherX — Shellcode Encrypter & Obfuscator
+🔐<h2> CipherX — Shellcode Encrypter & Obfuscator </h2>
 
 CipherX is a C/C++ based tool designed for encoding, encrypting, and obfuscating binary payloads using multiple techniques. The goal of this project is to demonstrate evasion strategies, strengthen red team knowledge, and support security research in malware analysis, cryptography, and reverse engineering.
 
@@ -6,23 +6,23 @@ CipherX is a C/C++ based tool designed for encoding, encrypting, and obfuscating
 
 #Features
 
-.Multiple Encoding/Obfuscation Techniques
+-Multiple Encoding/Obfuscation Techniques
 
-.XOR Obfuscation
+-XOR Obfuscation
 
-.RC4 Encryption
+-RC4 Encryption
 
-.Base64 Encoding
+-Base64 Encoding
 
-.IPv4 Representation
+-IPv4 Representation
 
-.IPv6 Representation
+-IPv6 Representation
 
-.MAC Address Encoding
+-MAC Address Encoding
 
-.UUID Representation
+-UUID Representation
 
-.Interactive CLI Menu
+-Interactive CLI Menu
 
 Simple text-based menu for selecting techniques
 
